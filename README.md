@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## EATS
 
-You can use the [editor on GitHub](https://github.com/marianaramada/EATS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website aims to provide the data and charts of the experiments described in the paper "Generating reduced tests for FSMs using asearch-based testing approach" submitted to ICTAI 2019. This paper proposes the EATS method, a search-based software testing method for test suite generation from FSM. The objective of EATS is to generate test suites that represent a good trade-off between its cost and its fault coverage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Behaviour of EATS and literature methods varying the number of states, inputs and outputs
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
