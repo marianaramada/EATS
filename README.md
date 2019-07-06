@@ -42,6 +42,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![descritivo](images/inputsL.PNG)
 
-<a download="nome doq vai ser b" href="caminho do q vai baixar" title="Download do arquivo">
+<a href="https://guides.github.com/features/mastering-markdown/" title="Planilha">
     <img src="images/excel-icon.png" style='zoom:8%'>
 </a>
